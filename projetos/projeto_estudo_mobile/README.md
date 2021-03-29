@@ -13,3 +13,15 @@
 	- Terminal 2
 		- entrar na pasta do projeto
 		- npx react-native run-android
+- Os elementos nao possuem signifiado
+- Os Elementos não possuem estilização própria
+- Todos os componetes possuem "display: flex"
+- Comunicação com o backend:
+	- yarn add axios
+	- baseURL ao criar api:
+		- IOS com emulator: http://localhost:port
+		- IOS com dispositivo físico: http://Ip da Máquina:port 
+		- Android com Emulator: http://localhost:port (adb reverse)
+		- Android com Emulator http://10.0.2.2:port (Android Studio)
+		- Android com Emulator http://10.0.2.2:port (Android Studio)
+		- Android com dispositivo fisico http://Ip da Máquina:port 
