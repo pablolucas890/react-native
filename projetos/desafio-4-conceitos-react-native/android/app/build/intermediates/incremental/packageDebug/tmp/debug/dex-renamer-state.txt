@@ -1,4 +1,4 @@
-#Mon Mar 29 12:59:31 BRT 2021
-base.0=/home/pablo/Documentos/BOOTSTRAP/REACT-NATIVE/projetos/desafio-4-conceitos-react-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Thu May 13 16:52:15 BRT 2021
+base.0=/home/pablo/Documentos/GITHUB/REACT-NATIVE/projetos/desafio-4-conceitos-react-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
