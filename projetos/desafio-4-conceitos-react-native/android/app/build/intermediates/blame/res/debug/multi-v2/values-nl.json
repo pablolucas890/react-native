@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/pablo/Documentos/BOOTSTRAP/REACT-NATIVE/projetos/desafio-4-conceitos-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/home/pablo/Documentos/GITHUB/REACT-NATIVE/projetos/desafio-4-conceitos-react-native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/home/pablo/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/res/values-nl/values-nl.xml",
